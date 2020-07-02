@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug my-repo",
+            "request": "attach",
+            "hostName": "127.0.0.1",
+            "projectName": "my-repo"
+        }
+    ]
+}
